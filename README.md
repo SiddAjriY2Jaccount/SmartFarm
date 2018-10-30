@@ -2,7 +2,7 @@
 
 IOT-ENABLED SMART FARM
 
-Problem Statement:
+Problem Statement is:
 -	Farming in India is carried out through mundane, outdated methods. Most farmers lack the necessary knowledge or expertise to carry out effective agriculture and rely on predictions, which oftentimes, fails.
 -	This leads to low yield, poor quality crops grown year after year, thus, putting the consumer at a loss of essential nutrients in their diet and also leaving the farmers with a very low profit margin for their crops.
 -	Since we know the benefits of proper soil moisture and its quality, air quality and irrigation in the growth of crops, such parameters cannot be ignored.
